@@ -1,1 +1,2 @@
-# Image_Processing_Lab
+# Image-Processing-Lab
+## Ashutosh Mehta
